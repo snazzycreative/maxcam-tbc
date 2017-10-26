@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: MaxCam
+## Notes: Enables max camera distance automagically.
+MaxCam.lua
+MaxCam.xml
