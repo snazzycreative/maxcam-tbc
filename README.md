@@ -10,7 +10,7 @@ You don't need this addon if you're using one that already runs this script. For
 You can install this addon into your `WoW/Interface/Addons` directory instead of having to run the below script each time you log in. There are no settings or commands. It just works.
 
 ```
-/script console=SetCVar("cameraDistanceMax", 50)
+/script console=SetCVar("cameraDistanceMax", 30)
 ```
 ## Requirements
 You need to be running WoW version 2.4.3 to use this addon.

@@ -1,3 +1,3 @@
 function MaxCam()
-  SetCVar("cameraDistanceMax",50);
+  SetCVar("cameraDistanceMax",30);
 end
