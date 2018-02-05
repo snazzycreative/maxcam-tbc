@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 24300
 ## Title: MaxCam
 ## Notes: Enables max camera distance automagically.
 MaxCam.lua
